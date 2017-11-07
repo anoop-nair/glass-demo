@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger keyword="@string/start_command" >
+    <constraints
+        microphone="true" />
+</trigger>
+<!--<trigger command="SHOW_ME_A_DEMO"/>-->
